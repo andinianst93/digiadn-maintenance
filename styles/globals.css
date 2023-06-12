@@ -6,6 +6,6 @@
 
 @layer base {
   body {
-    @apply bg-slate-900;
+    @apply bg-[#3D2070]/5 backdrop-blur-2xl;
   }
 }
